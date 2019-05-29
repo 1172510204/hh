@@ -4,6 +4,12 @@ import java.util.Map;
 
 public class AtomStructureDifference extends Difference {
 
+	
+	
+	
+	
+	
+	
   /**
    * 初始化每个轨道的序号和对应物体名称的区别
    * 
