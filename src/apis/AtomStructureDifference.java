@@ -20,6 +20,10 @@ public class AtomStructureDifference extends Difference {
     // TODO Auto-generated method stub
   }
 
+  
+  
+  
+  
   /**
    * 获取每个轨道的序号和对应物体名称的区别
    * 
